@@ -204,14 +204,14 @@
     <string name="throttle_help" msgid="243651091785169900">"Daha fazla bilgi edinin"</string>
     <string name="throttle_status_subtext" msgid="1657318943142085170">"<xliff:g id="USED_0">%1$s</xliff:g> (٪<xliff:g id="USED_1">%2$d</xliff:g>) / <xliff:g id="USED_2">%3$s</xliff:g> dönem maksimumu"\n"Bir sonraki dönem <xliff:g id="USED_3">%4$d</xliff:g> gün sonra başlıyor (<xliff:g id="USED_4">%5$s</xliff:g>)"</string>
     <string name="throttle_data_usage_subtext" msgid="6029276011123694701">"Maksimum dönem <xliff:g id="USED_0">%1$s</xliff:g> (٪<xliff:g id="USED_1">%2$d</xliff:g>) / <xliff:g id="USED_2">%3$s</xliff:g>"</string>
-    <string name="throttle_data_rate_reduced_subtext" msgid="7492763592720107737">"Maksimum değer <xliff:g id="USED_0">%1$s</xliff:g> aşıldı"\n"Veri hızı <xliff:g id="USED_1">%2$d</xliff:g> Kb/s\'ye düşürüldü"</string>
+    <string name="throttle_data_rate_reduced_subtext" msgid="7492763592720107737">"Maksimum değer <xliff:g id="USED_0">%1$s</xliff:g> aşıldı"\n"Veri hızı <xliff:g id="USED_1">%2$d</xliff:g> Kb/s'ye düşürüldü"</string>
     <string name="throttle_time_frame_subtext" msgid="7732763021560399960">"Dönemin tamamlanan bölümü:٪ <xliff:g id="USED_0">%1$d</xliff:g>"\n"Bir sonraki dönem <xliff:g id="USED_1">%2$d</xliff:g> gün sonra başlıyor (<xliff:g id="USED_2">%3$s</xliff:g>)"</string>
-    <string name="throttle_rate_subtext" msgid="2149102656120726855">"Veri kullanım sınırı aşılırsa veri hızı <xliff:g id="USED">%1$d</xliff:g> Kb/s\'ye düşürülür"</string>
+    <string name="throttle_rate_subtext" msgid="2149102656120726855">"Veri kullanım sınırı aşılırsa veri hızı <xliff:g id="USED">%1$d</xliff:g> Kb/s'ye düşürülür"</string>
     <string name="throttle_help_subtext" msgid="5217706521499010816">"Operatörünüzün mobil ağ üzerinden veri kullanımı politikası hakkında daha fazla bilgi edinin"</string>
-    <string name="cell_broadcast_sms" msgid="5584192824053625842">"Hücre Yayını SMS\'i"</string>
-    <string name="enable_disable_cell_bc_sms" msgid="4851147873691392255">"Hücre Yayını SMS\'i"</string>
-    <string name="cell_bc_sms_enable" msgid="6441688565738921084">"Hücre Yayını SMS\'si etkinleştirildi"</string>
-    <string name="cell_bc_sms_disable" msgid="3398365088309408749">"Hücre Yayını SMS\'si devre dışı bırakıldı"</string>
+    <string name="cell_broadcast_sms" msgid="5584192824053625842">"Hücre Yayını SMS'i"</string>
+    <string name="enable_disable_cell_bc_sms" msgid="4851147873691392255">"Hücre Yayını SMS'i"</string>
+    <string name="cell_bc_sms_enable" msgid="6441688565738921084">"Hücre Yayını SMS'si etkinleştirildi"</string>
+    <string name="cell_bc_sms_disable" msgid="3398365088309408749">"Hücre Yayını SMS'si devre dışı bırakıldı"</string>
     <string name="cb_sms_settings" msgid="651715019785107312">"Hücre Yayını SMS ayarları"</string>
     <string name="enable_disable_emergency_broadcast" msgid="2157014609041245335">"Acil Durum Yayını"</string>
     <string name="emergency_broadcast_enable" msgid="2645980025414010211">"Acil Durum Yayını etkinleştirildi"</string>
@@ -322,11 +322,11 @@
     <string name="fdn_activation" msgid="2156479741307463576">"SAN etkinleştirme"</string>
     <string name="fdn_enabled" msgid="5238109009915521240">"Sabit Arama Numaraları etkin"</string>
     <string name="fdn_disabled" msgid="4700049736675368279">"Sabit Arama Numaraları devre dışı"</string>
-    <string name="enable_fdn" msgid="3740191529180493851">"SAN\'yi etkinleştir"</string>
-    <string name="disable_fdn" msgid="7944020890722540616">"SAN\'yi devre dışı bırak"</string>
+    <string name="enable_fdn" msgid="3740191529180493851">"SAN'yi etkinleştir"</string>
+    <string name="disable_fdn" msgid="7944020890722540616">"SAN'yi devre dışı bırak"</string>
     <string name="change_pin2" msgid="2153563695382176676">"PIN2 kodunu değiştir"</string>
-    <string name="enable_fdn_ok" msgid="7215588870329688132">"SAN\'yi devre dışı bırak"</string>
-    <string name="disable_fdn_ok" msgid="5727046928930740173">"SAN\'yi etkinleştir"</string>
+    <string name="enable_fdn_ok" msgid="7215588870329688132">"SAN'yi devre dışı bırak"</string>
+    <string name="disable_fdn_ok" msgid="5727046928930740173">"SAN'yi etkinleştir"</string>
     <string name="sum_fdn" msgid="1959399454900272878">"Sabit Arama Numaralarını Yönet"</string>
     <string name="sum_fdn_change_pin" msgid="6666549734792827932">"SAN erişimi için PIN kodunu değiştir"</string>
     <string name="sum_fdn_manage_list" msgid="8431088265332628316">"Telefon numarası listesini yönet"</string>
@@ -339,7 +339,7 @@
     <string name="menu_add" msgid="1882023737425114762">"Kişi ekle"</string>
     <string name="menu_edit" msgid="7143003705504672374">"Kişiyi düzenle"</string>
     <string name="menu_delete" msgid="3977150783449642851">"Kişiyi sil"</string>
-    <string name="get_pin2" msgid="8204677063922225311">"PIN2\'yi yazın"</string>
+    <string name="get_pin2" msgid="8204677063922225311">"PIN2'yi yazın"</string>
     <string name="name" msgid="7329028332786872378">"Ad"</string>
     <string name="number" msgid="7905950798349903858">"Numara"</string>
     <string name="save" msgid="4094274636321939086">"Kaydet"</string>
@@ -366,7 +366,7 @@
     <string name="newPinLabel" msgid="207488227285336897">"Yeni PIN"</string>
     <string name="confirmPinLabel" msgid="257597715098070206">"Yeni PIN kodunu doğrula"</string>
     <string name="badPin" msgid="8955102849303984935">"Yazdığınız eski PIN doğru değil. Tekrar deneyin."</string>
-    <string name="mismatchPin" msgid="5923253370683071889">"Yazdığınız PIN\'ler eşleşmiyor. Tekrar deneyin."</string>
+    <string name="mismatchPin" msgid="5923253370683071889">"Yazdığınız PIN'ler eşleşmiyor. Tekrar deneyin."</string>
     <string name="invalidPin" msgid="5981171102258684792">"4 ila 8 haneli bir PIN yazın."</string>
     <string name="disable_sim_pin" msgid="3992926931620188855">"SIM PIN kodunu devre dışı bırak"</string>
     <string name="enable_sim_pin" msgid="5803702443844458831">"SIM PIN Kodunu Etkinleştir"</string>
