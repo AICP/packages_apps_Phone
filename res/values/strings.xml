@@ -2042,4 +2042,9 @@
     <!-- Text for the onscreen "Blacklist" button -->
     <string name="onscreenBlacklistText">Blacklist</string>
     <string name="callUnanswered_forwarded">Call unanswered and forwarded</string>
+
+    <!-- Incoming call in background -->
+    <string name="bg_incall">Incoming call in background</string>
+    <string name="bg_incall_summary">Keep incoming call UI in background when screen is on, show notification and play ringtone only</string>
+
 </resources>

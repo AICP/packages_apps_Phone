@@ -450,6 +450,9 @@ public class PhoneUtils {
         static boolean vibCallWaiting(Context context) {
             return getPrefs(context).getBoolean("button_vibrate_call_waiting", false);
         }
+        static boolean backgroundInCallScreen(Context context) {
+            return getPrefs(context).getBoolean("bg_incall_screen", false);
+        }
 
         /* Voice quality filter */
         static String getVoiceQualityParameter(Context context) {
